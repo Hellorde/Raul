@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 37024ad67d8209b4db0db42c8f2636cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pedra: {fileID: 1760847106975188, guid: 7d03ce164ffaff24885762c9c742d30f, type: 2}
+  - pena: {fileID: 1436801568958980, guid: 0cce52df24053e84f8754ab7b8b00f51, type: 2}
+  - lesmo: {fileID: 1989239225586248, guid: 4bda632801e38214eb9961f451d251c5, type: 2}
+  - raul: {instanceID: 0}
+  - colideraul: {instanceID: 0}
+  - txtscore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
